@@ -1,11 +1,5 @@
 # Hi, I'm Dotz0r
 
-<div align="right">
-  <a href="https://paypal.me/idotz0r">
-    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
-  </a>
-</div>
-
 <p align="center">
   <a href="https://google.com/">
     <img width="100" src="https://a.top4top.io/p_1747fcq8n1.png" alt="logo" />
